@@ -1,0 +1,6 @@
+name: ConsoleScheduler
+main: com.github.intangir.ConsoleScheduler.ConsoleScheduler
+version: 1.4.6
+description: Schedules commands to be launched from the console
+author: Rahazan,Intangir
+
